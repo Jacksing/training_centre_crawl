@@ -1,0 +1,8 @@
+NAME = 'name'
+URL = 'url'
+IMG = 'img'
+ADD = 'address'
+WEBSITE = 'website'
+EMAIL = 'email'
+TEL = 'telephone'
+PROFILE = 'description'
